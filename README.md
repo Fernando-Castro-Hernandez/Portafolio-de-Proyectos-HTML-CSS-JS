@@ -47,7 +47,7 @@ Portafolio-de-Proyectos/
     └── 📂 actividad14/      # Solucionador de Ecuaciones 1er Grado
 ```
 
-
+`![Vista Previa]()`.
 
 # LINK de GitHub Pages para visitar el sitio
 ```link
